@@ -1,0 +1,15 @@
+{
+  "name": "selectmayor",
+  "version": "1.0.0",
+  "description": "it pick mayor who is here today and is the last one was mayor",
+  "main": "selector.js",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mojtaba zarei",
+  "license": "ISC"
+}
