@@ -12,8 +12,10 @@ function selectMayor(){
         if(exceptionList.filter(function(experson){
                 return experson.name==person.name
             }).length>0)person.qouta=0;
-        else if (!history[person.name])person.qouta = personals.length;
-        else person.qouta = (Date.now() - history[person.name]) / (24 * 60 * 60 * 1000);
+        else if (!history[person.name])
+            person.qouta = personals.length;
+        else
+            person.qouta = (Date.now() - history[person.name]) / (24 * 60 * 60 * 1000);
     });
     var maxq=0;
     var selectedPreson;

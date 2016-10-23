@@ -1,19 +1,31 @@
 {
   "personals": [
     {
-      "name": "alireza"
+      "name": "mojtaba zarei"
     },
     {
-      "name": "vahid"
+      "name": "alireza sadeghi"
     },
     {
-      "name": "ali"
+      "name": "vahid amin tabar"
     },
     {
-      "name": "owner"
+      "name": "ali vakilzade"
     },
     {
-      "name": "mojtaba"
+      "name": "ali rajool"
+    },
+    {
+      "name": "khanom shokri"
+    },
+    {
+      "name": "hossein ghale"
+    },
+    {
+      "name": "mohamad hossein ahmadi"
+    },
+    {
+      "name": "mohsen shojayi"
     }
   ]
 }
